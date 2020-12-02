@@ -37,9 +37,22 @@ for (let productId = 1; productId <= products; productId += 1) {
         pid: 'Number',
         name: 'String',
         details: [
+          {
             _id: 'Number',
             name: 'String',
-            img_url: 'String'
+            img_url: 'String'          
+          },
+          {
+            _id: 'Number',
+            name: 'String',
+            img_url: 'String'          
+          },
+          {
+            _id: 'Number',
+            name: 'String',
+            img_url: 'String'          
+          },
+          ...
         ]
     ]
 ```
