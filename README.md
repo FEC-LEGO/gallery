@@ -58,7 +58,7 @@ for (let productId = 1; productId <= products; productId += 1) {
 ```
 ----
 #### Demo
-[![Gallery Component Demo](https://j.gifs.com/mOvKNO.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Gallery Component Demo](https://j.gifs.com/mOvKNO.gif)](https://youtu.be/M17mCngyk60)
 
 
 
